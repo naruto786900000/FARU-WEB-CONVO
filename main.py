@@ -57,7 +57,7 @@ def send_message():
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
 	<style>
 		body{
-			background-color: #f8f9fa;
+			background-image: url('background-image: url('https://i.imgur.com/IeHs2Ul.jpeg');
 		}
 		.container{
 			max-width: 500px;
