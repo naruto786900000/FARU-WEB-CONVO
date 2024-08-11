@@ -60,7 +60,7 @@ def send_message():
 			background-image: url('background-image: url('https://i.imgur.com/IeHs2Ul.jpeg');
 		}
 		.container{
-			max-width: 500px;
+			max-width: 700px;
 			background-color: #4CAF50;
 			border-radius: 10px;
 			padding: 20px;
